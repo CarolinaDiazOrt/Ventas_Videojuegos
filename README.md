@@ -1,1 +1,5 @@
 # Ventas_Videojuegos
+
+En la industria de los videojuegos, comprender los factores que influyen en el éxito comercial de un título es fundamental para la toma de decisiones estratégicas. La empresa **Ice**, una tienda en línea dedicada a la venta de videojuegos a nivel mundial, busca mejorar su capacidad para identificar juegos prometedores y optimizar sus campañas publicitarias. Para ello, se analizarán datos históricos que incluyen características como reseñas de usuarios y expertos, género, plataforma, clasificación ESRB, y cifras de ventas.
+
+Este proyecto se sitúa temporalmente en diciembre de 2016. El objetivo es construir una base analítica sólida para predecir el desempeño de los juegos en 2017 utilizando la información disponible hasta el año anterior. Aunque el escenario es ficticio, el enfoque analítico y las habilidades desarrolladas son aplicables a cualquier estudio de mercado en la industria del entretenimiento digital.
